@@ -13,11 +13,11 @@ so from the top:
 
 image referces:
 
-Image by <a href="https://pixabay.com/users/angelorosa-4392745/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2069021">Angelo Rosa</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2069021">Pixabay</a>- Lasagna size - width=1280 height=853
+Image by <a href="https://pixabay.com/users/angelorosa-4392745/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2069021" target="_blank" rel="noopener noreferrer">Angelo Rosa</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2069021" target="_blank" rel="noopener noreferrer">Pixabay</a>- Lasagna size - width=1280 height=853
 
-Image by <a href="https://pixabay.com/users/planet_fox-4691618/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7009879">Alexander Fox | PlaNet Fox</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7009879">Pixabay</a> - pulled pork size - width=1280 height=853
+Image by <a href="https://pixabay.com/users/planet_fox-4691618/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7009879" target="_blank" rel="noopener noreferrer">Alexander Fox | PlaNet Fox</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7009879" target="_blank" rel="noopener noreferrer">Pixabay</a> - pulled pork size - width=1280 height=853
 
-Image by <a href="https://pixabay.com/users/antonio_cansino-6477209/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5301531">Antonio Cansino</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5301531">Pixabay</a> - BBQ spice size - width=1280 height=854
+Image by <a href="https://pixabay.com/users/antonio_cansino-6477209/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5301531" target="_blank" rel="noopener noreferrer">Antonio Cansino</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5301531" target="_blank" rel="noopener noreferrer">Pixabay</a> - BBQ spice size - width=1280 height=854
 
 recipes reference:
 
