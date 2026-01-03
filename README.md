@@ -1,5 +1,7 @@
 This is my first foundational project from TOP to create a recipe website. I will be using just basic HTML for now with emphasis on writing clean code and formating it correctly. With revisions coming in later to add other languages, such as CSS and JS. 
 
+** just a quick disclaimer, i did this course like 3 years ago all the way to the point of about to choose between ruby or node.JS so like the next MAIN bit for the course and stopped. But I am starting over again, because i decided I want to give this a new go and actually learn this, I don't think I was in the right mindset when i started the course, then ofcourse life happens and you get onto other things. I did fairly well, I recall my biggest struggle was the calculator app and just CSS in general because i'm not artsy. Anyway, so i have been breezing through the content up to here as I do actually remember a lot of this stuff and this is quite the refresher for me. So don't mind me doing extra little tid bits like adding the fig captions. I will be going slower and keeping to the par once i get to JS. HTML is obviously super easy the second time round, and CSS while I no longer have disdain for it, I will be spending extra time trying to flesh out the skills there. Anyway, just felt like I needed to add this bit because when I submit this if anyone actually reads this they might think why I did more than asked for. **
+
 For now the task is simple. Create a recipe website with just HTML. 
 
 so from the top:
