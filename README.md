@@ -28,3 +28,6 @@ bbq spice rub - https://www.allrecipes.com/recipe/229329/bbq-spice-rub/
 lasagna - original
 
 pulled pork - not original but i cant remember where it came from. been making it forever. 
+
+
+Well that seems to be it for me. I geniunley had a lot of fun making this and making it my own. keeping it light and fun, not taking it too seriously. Was really nice to see how I remember pretty much everything from my first time round, had minnimal googling, i really enjoyed focusing on integrity and making sure to include source links and giving credit to where i got the images or recipes. I did have to google the figcaption attribute but i liked that I was interested in finding out what i needed to use to give credit and do this the right way. 
