@@ -31,3 +31,5 @@ pulled pork - not original but i cant remember where it came from. been making i
 
 
 Well that seems to be it for me. I geniunley had a lot of fun making this and making it my own. keeping it light and fun, not taking it too seriously. Was really nice to see how I remember pretty much everything from my first time round, had minnimal googling, i really enjoyed focusing on integrity and making sure to include source links and giving credit to where i got the images or recipes. I did have to google the figcaption attribute but i liked that I was interested in finding out what i needed to use to give credit and do this the right way. 
+
+Have just gone over the assignment and 100% did what it asked, when i mentioned earlier that I enjoyed making this my own, i did fully mean that I followed the assignment and did what was asked but also did a few extra things that wasn't asked for but i wanted to add because it just made it feel like my own work. I fully understand the concept of following the directions, i love to follow directions. 
